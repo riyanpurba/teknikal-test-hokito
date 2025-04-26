@@ -10,6 +10,10 @@ Follow these steps to run this project locally:
 Framework: Laravel 8
 PHP: v8.2.*
 Database: MySQL
+
+* User Login*
+email : admin@example.com
+password : password123
 ```
 
 ### 1. Clone the repository
